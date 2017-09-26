@@ -1,0 +1,7 @@
+c:\users\nepen\source\repos\Mod1Lab3\Mod1Lab3\bin\Debug\Mod1Lab3.exe.config
+c:\users\nepen\source\repos\Mod1Lab3\Mod1Lab3\bin\Debug\Mod1Lab3.exe
+c:\users\nepen\source\repos\Mod1Lab3\Mod1Lab3\bin\Debug\Mod1Lab3.pdb
+c:\users\nepen\source\repos\Mod1Lab3\Mod1Lab3\obj\Debug\Mod1Lab3.csprojResolveAssemblyReference.cache
+c:\users\nepen\source\repos\Mod1Lab3\Mod1Lab3\obj\Debug\Mod1Lab3.csproj.CoreCompileInputs.cache
+c:\users\nepen\source\repos\Mod1Lab3\Mod1Lab3\obj\Debug\Mod1Lab3.exe
+c:\users\nepen\source\repos\Mod1Lab3\Mod1Lab3\obj\Debug\Mod1Lab3.pdb
